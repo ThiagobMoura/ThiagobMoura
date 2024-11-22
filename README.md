@@ -33,7 +33,8 @@ Conecte-se comigo:
 
 <a href="https://github.com/ThiagobMoura" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagobMoura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[Veja minha certificação na Credly](https://www.credly.com/badges/a102e644-4c63-4ba2-a2f2-2b116f48aefb/public_url)
+[![Certificação](https://images.credly.com/images/a102e644-4c63-4ba2-a2f2-2b116f48aefb/badge.png)](https://www.credly.com/badges/a102e644-4c63-4ba2-a2f2-2b116f48aefb/public_url)
+
 
 
 "Pequenos passos na direção certa podem criar grandes mudanças."
